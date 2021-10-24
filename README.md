@@ -1,3 +1,16 @@
+
+This is the TODO list.
+
+1. build working version - not persistent
+2. add persistence
+3. docker
+4. expose to google
+5. obtain endpoint
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
